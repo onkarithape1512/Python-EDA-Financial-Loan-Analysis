@@ -267,5 +267,7 @@ This project showcases an end-to-end financial loan portfolio analysis using Pyt
 # 👤 Author
 
 Onkar Ithape
+
 Aspiring Data Analyst
+
 email - onkarithape.work@gmail.com
